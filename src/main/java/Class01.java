@@ -4,6 +4,7 @@ public class Class01 {
         //V1 çalışmalarım...
         //v2 uzerine calısmalar
         System.out.println("v3 kodları...");//v3
+        //v4 kısa yoldan commit
 
 
     }
