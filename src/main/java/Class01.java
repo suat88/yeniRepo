@@ -5,6 +5,7 @@ public class Class01 {
         //v2 uzerine calısmalar
         //v3 çalışmalar
         //v4
+        //ngjg
 
 
     }
